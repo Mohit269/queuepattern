@@ -1,5 +1,4 @@
-# queuepattern
-//representing a side triangle pattern using enqueue and dequeue operation. 
+
 #include <bits/stdc++.h>
   using namespace std;
   
